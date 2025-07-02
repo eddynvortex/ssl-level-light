@@ -25,7 +25,7 @@ Available on the **Chrome** and **Edge** extension stores.
 
 ## ☕ Support this project
 
-**SSL Level Light** is an open-source security tool developed and maintained by an individual developer.  
+**SSL Level Light** is an security tool project developed and maintained by an individual developer.  
 Your support helps cover server costs and maintain a sustainable development environment.  
 By contributing, you are also helping to build a safer internet for everyone.
 
@@ -69,7 +69,7 @@ Chrome/Edge 확장 프로그램 스토어에서 설치할 수 있습니다.
 
 ## ☕ 후원하기
 
-SSL Level Light는 개발자 개인이 직접 운영하는 오픈소스 보안 도구입니다.
+SSL Level Light는 개발자 개인이 직접 운영하는 보안 프로젝트입니다.
 후원은 서버 유지비와 개발 환경 지원에 사용되며,
 더 많은 인터넷 사용자들이 안전한 웹 환경을 경험할 수 있도록 만드는 데 기여하게 됩니다.
 
